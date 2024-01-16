@@ -267,16 +267,29 @@ Hay dos elementos centrales en un objeto JSON: claves (Keys) y valores (Values).
 
 Un objeto JSON comienza y termina con llaves {}. Puede tener dos o más pares de claves/valor dentro, con una coma para separarlos. Así mismo, cada key es seguida por dos puntos para distinguirla del valor.
 
-Como resultado, la sintaxis literal del objeto JSON se ve así:
-
-    Plain text
-    Copy to clipboard
-    Open code in new window
-    EnlighterJS 3 Syntax Highlighter
-    {“key”:“value”,“key”:“value”,“key”:“value”.}
-    {“key”:“value”,“key”:“value”,“key”:“value”.}
-
-    {“key”:“value”,“key”:“value”,“key”:“value”.}
+### Ejemplo JSON [ejemplo](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=957:ejemplos-json-archivo-datos-cambio-formato-convertidor-on-line-xml-a-json-y-al-reves-minificar-cu01214f&catid=83&Itemid=212)
+    {
+        "marcadores": [
+          {
+            "latitude": 40.416875,
+            "longitude": -3.703308,
+            "city": "Madrid",
+            "description": "Puerta del Sol"
+          },
+          {
+            "latitude": 40.417438,
+            "longitude": -3.693363,
+            "city": "Madrid",
+            "description": "Paseo del Prado"
+          },
+          {
+            "latitude": 40.407015,
+            "longitude": -3.691163,
+            "city": "Madrid",
+            "description": "Estación de Atocha"
+          }
+        ]
+    }
 
 # Webgarfía
 
