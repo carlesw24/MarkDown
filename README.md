@@ -43,3 +43,8 @@ Como resultado, la sintaxis literal del objeto JSON se ve así:
     {“key”:“value”,“key”:“value”,“key”:“value”.}
 
     {“key”:“value”,“key”:“value”,“key”:“value”.}
+
+# Webgarfía
+
+### [YAML](https://docs.unity3d.com/es/2018.4/Manual/YAMLSceneExample.html)
+### [JSON](https://www.hostinger.es/tutoriales/que-es-json)
